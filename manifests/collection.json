@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://NoemiORav.github.io/IOR.L.MAR.A.XL/manifests/IOR.L.MAR.A.XL.9v-10v.json",
     "label" : "British Library, IOR/L/MAR/A/XL, Royal James : Journal"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://NoemiORav.github.io/IOR.L.MAR.A.XL/manifests/IOR.L.MAR.A.XL.9v.10v.json",
+    "label" : "British Library, IOR/L/MAR/A/XL, Royal James : Journal"
   } ]
 }
